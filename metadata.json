@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "KWin/WindowSwitcher",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "support@theme.dev",
+                "Name": "KDE Studio"
+            }
+        ],
+        "Description": "macOS-style 3D carousel application switcher with pure neutral frosted glass and fullscreen focus",
+        "Icon": "preferences-system-windows-switcher-thumbnail-grid",
+        "Id": "macos_carousel_switcher",
+        "License": "Commercial",
+        "Name": "macOS Frosted Carousel Switcher",
+        "Version": "2.1.0"
+    },
+    "Id": "macos_carousel_switcher",
+    "Name": "macOS Frosted Carousel Switcher",
+    "X-Plasma-API": "declarativeappletscript"
+}

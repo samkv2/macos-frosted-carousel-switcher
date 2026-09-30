@@ -1,0 +1,12 @@
+# Build / Dist artifacts
+dist/
+*.tar.gz
+*.zip
+
+# Temporary files
+*~
+*.swp
+*.qmlc
+*.jsc
+.directory
+.DS_Store
